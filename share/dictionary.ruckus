@@ -1,0 +1,17 @@
+# -*- test -*-
+#
+# dictionary.ruckus
+#
+#
+
+VENDOR       Ruckus      25053
+
+#
+#   Standard attribute
+#
+BEGIN-VENDOR    Ruckus
+
+ATTRIBUTE   Ruckus-User-Groups          1   string
+
+END-VENDOR  Ruckus
+
