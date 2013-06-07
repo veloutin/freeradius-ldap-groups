@@ -5,9 +5,7 @@ use vars qw(%RAD_REQUEST %RAD_REPLY %RAD_CHECK);
 use Net::LDAP;
 
 # This is hash wich hold original request from radius
-#my %RAD_REQUEST = (
-#    "User-Name", "tenag",
-#);
+#my %RAD_REQUEST;
 # In this hash you add values that will be returned to NAS.
 #my %RAD_REPLY;
 #This is for check items
